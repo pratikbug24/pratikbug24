@@ -38,7 +38,7 @@
 ## 🟩 Contribution Activity
 
 <!-- GitHub Native Contribution Calendar -->
-![Snake animation](https://github.com/pratikbug24/pratikbug24/blob/output/github-contribution-grid-snake.svg)
+![Snake dark](https://github.com/pratikbug24/pratikbug24/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
