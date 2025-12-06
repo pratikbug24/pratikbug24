@@ -38,9 +38,8 @@
 ## 🟩 Contribution Activity
 
 <!-- GitHub Native Contribution Calendar -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/3aff33/pratikbug24" alt="Contribution chart" />
-</p>
+![Snake animation](https://github.com/pratikbug24/pratikbug24/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
