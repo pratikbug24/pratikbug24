@@ -37,8 +37,16 @@
 
 ## 🟩 Contribution Activity
 
+<!-- GitHub Native Contribution Calendar -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbug24&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://ghchart.rshah.org/3aff33/pratikbug24" alt="Contribution chart" />
+</p>
+
+---
+
+<!-- Custom Contribution Line Graph -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbug24&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200" />
 </p>
 
 <p align="center">
