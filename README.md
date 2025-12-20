@@ -55,9 +55,9 @@
 ---
 
 ## 🌐 Portfolio / Links  
-🔗 **Portfolio / Website** → _Add your link here_  
+🔗 **Portfolio / Website** → https://pratikbug24.github.io/portfolio/
 🔗 **GitHub** → https://github.com/pratikbug24  
-🔗 **LinkedIn** → _Add your link here_
+🔗 **LinkedIn** → https://www.linkedin.com/in/pratik-pawar-16065b264
 
 ---
 
