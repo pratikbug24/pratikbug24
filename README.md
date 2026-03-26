@@ -16,14 +16,8 @@
 ---
 
 ## 🛠️ Technologies & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,mongodb,mysql,spring,hibernate,jenkins,gatsby,postman,git,github,figma,linux,maven,vite)](https://skillicons.dev) 
+
 
 ---
 
