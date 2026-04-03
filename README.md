@@ -23,17 +23,17 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikbug24&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbug24&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://ghstats.dev/api/card?username=pratikbug24&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pratikbug24&layout=compact&theme=tokyonight" height="200"/>
 </p>
-
 ---
 
 ## 🟩 Contribution Activity
 
 <!-- GitHub Native Contribution Calendar -->
-![Snake dark](https://github.com/pratikbug24/pratikbug24/blob/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratikbug24/pratikbug24/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
